@@ -1,2 +1,4 @@
 qiskit[visualization]
 jupyterlab
+scikit-learn
+urllib3
