@@ -1,0 +1,1 @@
+To run the QNN tutorial, you will need to put a file named "quantum_config.json" in a subdirectory of this repository named data. It should have a single key/value, the key being "token", and the value being the token for your IBM Quantum Cloud account (https://quantum-computing.ibm.com/).
